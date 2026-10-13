@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "Agricultural guidance platform connecting farmers with certified domain experts for crop problem diagnosis, consultations, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for AgriConnect, an agriculture consultation prototype connecting farmers with domain experts. Details the visual design, interactive workflows (problem submission, expert recommendation, booking confirmation, and consultation chat), state management, and in-memory mock repository architecture.",
+  "updatedAt": "2026-10-13T14:37:29.665631007Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
